@@ -7,6 +7,7 @@ Este material também foi projetado para ser lecionado em sala de aula, estimand
 Inicie o tutorial em [Introdução](Introducao.ipynb).
 
 ## Colaboradores
-	- [**Mateus Pereira**](github.com/mateusbmp)
-	- [**André Lage**](github.com/proflage)
-	- [**Wykthor**](github.com/wykthor-btracker)
+
+- [**Mateus Pereira**](github.com/mateusbmp)
+- [**André Lage**](github.com/proflage)
+- [**Wykthor**](github.com/wykthor-btracker)
